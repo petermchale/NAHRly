@@ -1,6 +1,8 @@
 # NAHRly
 Genomic copy-number variant calling on NAHR-based events
 
+https://petermchale.github.io/NAHRly
+
 ## Requirements 
 
 `Python 3.7`
